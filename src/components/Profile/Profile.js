@@ -4,7 +4,7 @@ import MyPosts from '../MyPosts/MyPosts';
 
 const Profile = () => {
   return (
-    <div className={s.content}>
+    <div>
       <div>
         <img src='https://viajareafilipinas.com/wp-content/uploads/2020/04/Playa-Blanca-Bor%C3%A1cay-2.jpg'/>
       </div>
